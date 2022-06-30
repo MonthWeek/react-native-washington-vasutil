@@ -1,7 +1,7 @@
 
 {
-  "name": "@vasutil/react-native-washington-vasutil",
-  "version": "1.2.0",
+  "name": "@watchman9527/react-native-washington-vasutil",
+  "version": "2.0.0",
   "description": "this is designed for washington vas util",
   "homepage": "https://github.com/MonthWeek/react-native-washington-vasutil",
   "main": "index.js",
@@ -10,11 +10,11 @@
   },
   "keywords": [
     "react-native-washington-vasutil",
-    "vasutil/react-native-washington-vasutil"
+    "@watchman9527/react-native-washington-vasutil"
   ],
   "author": {
-    "name": "vasutil",
-    "email": "vasutil@example.com"
+    "name": "watchman9527",
+    "email": "watchman9527@example.com"
   },
   "license": "MIT",
   "repository": {
