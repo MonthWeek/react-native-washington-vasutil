@@ -11,7 +11,7 @@ RCT_EXPORT_METHOD(readerQR:(NSString *)fileUrl success:(RCTPromiseResolveBlock)s
     if(result){
       success(result);
     }else{
-      NSString *domain = @"com.google";
+      NSString *domain = @"com.steven";
       NSString *desc = NSLocalizedString(@"没有相关二维码", @"");
       NSDictionary *userInfo = @{ NSLocalizedDescriptionKey : desc };
       NSError *error = [NSError errorWithDomain:domain
